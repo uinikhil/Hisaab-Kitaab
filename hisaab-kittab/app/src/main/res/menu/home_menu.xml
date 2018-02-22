@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context=".MainActivity">
+    <item android:id="@+id/reward"
+          android:visible="false"
+          android:title="0/100 (100 reward = 10 users)"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/add_reward"
+          android:title="+1 Reward"
+          android:visible="false"
+          app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_add_user"
+        android:icon="@drawable/ic_action_name"
+        android:title="Add User"
+        app:showAsAction="always"/>
+
+
+    <item android:id="@+id/pay_now_menu_home"
+          android:icon="@drawable/ic_action_payment"
+          android:title="Pay to Add More Users"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/sign_out"
+        android:title="Sign Out"
+          android:icon="@drawable/ic_action_power"
+        app:showAsAction="never"/>
+
+
+
+</menu>

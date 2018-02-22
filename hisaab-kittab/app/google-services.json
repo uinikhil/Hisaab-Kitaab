@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "611589016404",
+    "firebase_url": "https://hisaab-kitaab-a1898.firebaseio.com",
+    "project_id": "hisaab-kitaab-a1898",
+    "storage_bucket": "hisaab-kitaab-a1898.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611589016404:android:b8c6957daafedfc3",
+        "android_client_info": {
+          "package_name": "in.aadara.hisaabkitaab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611589016404-l3qoj8kkpmcgpnl8bl7204a97l3bu9ml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.aadara.hisaabkitaab",
+            "certificate_hash": "94e9a82a6653440df9c1c95666098c868c831ea7"
+          }
+        },
+        {
+          "client_id": "611589016404-uemeivqhf8255h7rsier78ancusf40j7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.aadara.hisaabkitaab",
+            "certificate_hash": "d3fc53bc61b878186404a86ba1c6ff848548c4c7"
+          }
+        },
+        {
+          "client_id": "611589016404-nqveihtn8joc53ooghjg9s7ev58s29cr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-IFkPyuahHKoYJO5rXSGHdvonHEgGX08"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611589016404-nqveihtn8joc53ooghjg9s7ev58s29cr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

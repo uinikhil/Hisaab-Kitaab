@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      tools:context=".UserDetailActivity">
+    <item android:id="@+id/update_amount_menu"
+          android:title="Update Amount"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/pay_now_menu"
+          android:title="Pay Now"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/delete_user"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="delete"
+          app:showAsAction="never"/>
+
+    <item android:id="@+id/amount"
+          android:title="₹ 0"
+          app:showAsAction="always"/>
+
+</menu>
