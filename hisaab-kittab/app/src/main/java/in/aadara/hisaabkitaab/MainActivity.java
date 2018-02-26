@@ -132,7 +132,7 @@ public class MainActivity extends AppCompatActivity implements FirebaseAuth.Auth
         recyclerView.setLayoutManager(linearLayoutManager);
         setTitle("");
         MobileAds.initialize(this,
-                "ca-app-pub-9109508432817685~7441236906");
+                "ca-app-pub-~7441236906");
 //        mAdView = findViewById(R.id.adView);
 //        AdRequest adRequest = new AdRequest.Builder().build();
 //        mAdView.loadAd(adRequest);

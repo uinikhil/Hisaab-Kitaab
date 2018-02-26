@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "611589016404-l3qoj8kkpmcgpnl8bl7204a97l3bu9ml.apps.googleusercontent.com",
+          "client_id": "611589016404-.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "in.aadara.hisaabkitaab",
-            "certificate_hash": "94e9a82a6653440df9c1c95666098c868c831ea7"
+            "certificate_hash": "94e9a82a6653440df9c1c95666098c86ea7"
           }
         },
         {
@@ -27,17 +27,17 @@
           "client_type": 1,
           "android_info": {
             "package_name": "in.aadara.hisaabkitaab",
-            "certificate_hash": "d3fc53bc61b878186404a86ba1c6ff848548c4c7"
+            "certificate_hash": "d3fc53bc61b878186404aff848548c4c7"
           }
         },
         {
-          "client_id": "611589016404-nqveihtn8joc53ooghjg9s7ev58s29cr.apps.googleusercontent.com",
+          "client_id": "611589016404-nqveihtn8joc53o.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD-IFkPyuahHKoYJO5rXSGHdvonHEgGX08"
+          "current_key": "AIzaSyD-"
         }
       ],
       "services": {
@@ -48,7 +48,7 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "611589016404-nqveihtn8joc53ooghjg9s7ev58s29cr.apps.googleusercontent.com",
+              "client_id": "611589016404-.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

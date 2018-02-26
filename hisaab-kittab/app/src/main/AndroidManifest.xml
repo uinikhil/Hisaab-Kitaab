@@ -102,11 +102,11 @@
 
         <meta-data
             android:name="APP_ID"
-            android:value="999WLIUEKG8NTCK5TXYW95HO" />
+            android:value="abc" />
 
         <meta-data
             android:name="SENDER_ID"
-            android:value="611589016404" />
+            android:value="121" />
 
         <!-- MANDATORY FIELD: THE NOTIFICATION SMALL ICON WHICH WILL BE USED TO SET TO NOTIFICATIONS POSTED -->
         <meta-data
